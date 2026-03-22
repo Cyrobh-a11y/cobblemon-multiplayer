@@ -1,0 +1,24 @@
+{
+  "allowStarterOnJoin": true,
+  "promptStarterOnceOnly": true,
+  "starters": [
+    {
+      "name": "Kanto",
+      "displayName": "cobblemon.starterselection.category.kanto",
+      "pokemon": [
+        "Bulbasaur level=10",
+        "Charmander level=10",
+        "Squirtle level=10"
+      ]
+    },
+    {
+      "name": "Johto",
+      "displayName": "cobblemon.starterselection.category.johto",
+      "pokemon": [
+        "Chikorita level=10",
+        "Cyndaquil level=10",
+        "Totodile level=10"
+      ]
+    }
+  ]
+}

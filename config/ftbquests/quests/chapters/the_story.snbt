@@ -1,0 +1,29 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_story"
+	group: "7DF37B775806752B"
+	id: "3FF9AF3DD069A977"
+	order_index: 1
+	quest_links: [ ]
+	quests: [{
+		icon: "cobblemon:master_ball"
+		id: "4BF8B5F97C7584B9"
+		rewards: [{
+			id: "41F878CA4CA1C4F7"
+			type: "xp"
+			xp: 100
+		}]
+		size: 8.0d
+		subtitle: "This will go through the cobblemon story... you can earn rewards, prizes, and who knows what else... follow along while you adventure!"
+		tasks: [{
+			id: "62FB2DA157F86B01"
+			title: "Cobblemon legends story..."
+			type: "checkmark"
+		}]
+		title: "The Story begins...."
+		x: 0.0d
+		y: 0.5d
+	}]
+	title: "The Story"
+}

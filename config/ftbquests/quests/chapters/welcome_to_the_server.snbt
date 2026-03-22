@@ -1,0 +1,56 @@
+{
+	default_hide_dependency_lines: false
+	default_min_width: 100
+	default_quest_shape: "rsquare"
+	default_quest_size: 5.0d
+	filename: "welcome_to_the_server"
+	group: "7DF37B775806752B"
+	icon: { Count: 5, id: "cobblemon:poke_ball" }
+	id: "0E66F7139BF0D353"
+	order_index: 0
+	quest_links: [ ]
+	quests: [{
+		id: "331E61A4F4E872ED"
+		rewards: [
+			{
+				count: 10
+				id: "3E5AD09FE3259536"
+				item: "cobblemon:poke_ball"
+				type: "item"
+			}
+			{
+				count: 16
+				id: "43DC7BC099085BE7"
+				item: "minecraft:oak_log"
+				type: "item"
+			}
+			{
+				count: 32
+				id: "6C3B385494BA0DD3"
+				item: "minecraft:cooked_beef"
+				type: "item"
+			}
+			{
+				count: 5
+				id: "4A8BCA80F580E6FB"
+				item: "cobblemon:rare_candy"
+				type: "item"
+			}
+			{
+				count: 2
+				id: "1B62023BB95E5449"
+				item: "waystones:waystone"
+				type: "item"
+			}
+		]
+		subtitle: "Free Rewards for you!"
+		tasks: [{
+			id: "20924A663EBE1531"
+			title: "Welcome To Cobblemon legends!"
+			type: "checkmark"
+		}]
+		x: 0.0d
+		y: 3.0d
+	}]
+	title: "Welcome to the server!"
+}
