@@ -1,0 +1,239 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2026-03-22 16:44:21 -0400"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2026-03-22 16:44:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:snowy_plains": "2026-03-22 16:44:22 -0400",
+      "minecraft:frozen_ocean": "2026-03-22 16:44:55 -0400",
+      "minecraft:snowy_beach": "2026-03-22 16:44:52 -0400"
+    },
+    "done": false
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2026-03-22 16:52:29 -0400"
+    },
+    "done": true
+  },
+  "megamons:grant_megamons_guide": {
+    "criteria": {
+      "tick": "2026-03-22 16:52:29 -0400"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/transportation/apricorn_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 16:53:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 16:53:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2026-03-22 16:53:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 16:53:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 16:53:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 16:53:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 16:53:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 16:53:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 16:53:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2026-03-22 16:53:00 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_birch_wood": {
+    "criteria": {
+      "has_log": "2026-03-22 16:54:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/birch_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-03-22 16:54:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2026-03-22 16:54:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2026-03-22 16:54:20 -0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2026-03-22 16:54:20 -0400"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2026-03-22 16:54:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2026-03-22 16:54:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_wood_slab": "2026-03-22 16:54:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2026-03-22 17:00:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2026-03-22 17:00:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2026-03-22 17:00:01 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2026-03-22 17:10:29 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_stairs": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/kings_rock": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_sandstone_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cut_sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/sandstone_wall": {
+    "criteria": {
+      "has_sandstone": "2026-03-22 17:24:25 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

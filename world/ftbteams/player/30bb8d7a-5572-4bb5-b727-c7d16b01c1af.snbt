@@ -1,0 +1,17 @@
+{
+	id: "30bb8d7a-5572-4bb5-b727-c7d16b01c1af"
+	type: "player"
+	player_name: "IcepuckElPibe"
+	ranks: {
+		30bb8d7a-5572-4bb5-b727-c7d16b01c1af: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "IcepuckElPibe"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,17 @@
+{
+	id: "28ca0d59-0919-4927-80e0-7c46b9cbe778"
+	type: "player"
+	player_name: "DaisyMay530"
+	ranks: {
+		28ca0d59-0919-4927-80e0-7c46b9cbe778: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "DaisyMay530"
+		"ftbteams:description": ""
+		"ftbteams:color": "#70FF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

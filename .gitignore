@@ -1,6 +1,5 @@
 # Runtime and generated server data
 logs/
-world/
 usercache.json
 banned-ips.json
 banned-players.json
@@ -8,9 +7,6 @@ ops.json
 whitelist.json
 
 # Fabric/Minecraft downloaded binaries and libraries
-libraries/
-versions/
-fabric-server-*.jar
 
 # Tooling / local metadata
 .fabric/

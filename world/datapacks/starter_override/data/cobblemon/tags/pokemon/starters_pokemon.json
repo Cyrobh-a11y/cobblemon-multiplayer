@@ -1,0 +1,12 @@
+{
+  "replace": true,
+  "values": [
+    "cobblemon:bulbasaur",
+    "cobblemon:charmander",
+    "cobblemon:squirtle",
+
+    "cobblemon:chikorita",
+    "cobblemon:cyndaquil",
+    "cobblemon:totodile"
+  ]
+}

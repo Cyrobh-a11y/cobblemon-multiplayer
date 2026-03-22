@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "c34b21e1c5174754a5259088d07948e9"
+	name: "CyroBH#c34b21e1"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

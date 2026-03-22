@@ -1,0 +1,17 @@
+{
+	id: "c34b21e1-c517-4754-a525-9088d07948e9"
+	type: "player"
+	player_name: "CyroBH"
+	ranks: {
+		c34b21e1-c517-4754-a525-9088d07948e9: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "CyroBH"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF59A8"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "28ca0d590919492780e07c46b9cbe778"
+	name: "DaisyMay530#28ca0d59"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}

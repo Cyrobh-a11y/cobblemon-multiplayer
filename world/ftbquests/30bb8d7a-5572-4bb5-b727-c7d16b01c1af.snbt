@@ -1,0 +1,14 @@
+{
+	version: 1
+	uuid: "30bb8d7a55724bb5b727c7d16b01c1af"
+	name: "IcepuckElPibe#30bb8d7a"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	repeatable: { }
+	completion_count: { }
+	claimed_rewards: { }
+	player_data: { }
+}
